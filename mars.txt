@@ -2,7 +2,6 @@ Cold and dry, but everything is my favorite color. \
 
 The two moons may be a big problem for Wolfman.
 
-Mummy will certainly appreciate the lack of humidity.
+Mummy will certainly appreciate the lack of humidity.=
+This should cause a problem.
 
-Creating a problem.
-This is also a change that will create a problem.
